@@ -104,7 +104,7 @@ The output file should be exactly the same as the one in output section filename
 This is required in order the webpack middleware to inject the correct script in the html.
 
 ##Production bundles
-There is no automation for production bundles and it must be handled according to each aplication's needs.
+There is no automation for production bundles and it must be handled according to each application's needs.
 In the Aspnet.Webpack sample in the webpack folder there is an example of a production configuration for the project.
 
 ##Known issues
